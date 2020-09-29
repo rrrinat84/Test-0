@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="51444a5f-5a91-41ef-9b6a-0286e652e038" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -55,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601382048551</updated>
-      <workItem from="1601382058224" duration="703000" />
+      <workItem from="1601382058224" duration="1321000" />
     </task>
     <servers />
   </component>
@@ -68,13 +71,13 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="160" y="0" key="SettingsEditor" timestamp="1601382423938">
+    <state x="160" y="0" key="SettingsEditor" timestamp="1601383370654">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="160" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601382423938" />
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1601382420110">
+    <state x="160" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601383370654" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1601383366655">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601382420110" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601383366655" />
   </component>
 </project>
